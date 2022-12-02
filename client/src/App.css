@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+.pollCard {
+  background-color: #3e6d9c;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+
+.expiredCard {
+  background-color: #001253;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+
+.timerDiv {
+  background-color: whitesmoke;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.cardTitle {
+  color: white;
+  font-family: "Anton", sans-serif;
+  font-size: 40px;
+}
+
+.cardOptions {
+  color: white;
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.listItem {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+}
+
+.confirmVote {
+  font-family: "Anton", sans-serif;
+}
+
+.loginButtons{
+  margin-top:10px;
+  font-family: 'Rubik', sans-serif;
+  font-size:15px;
+}
+
+Form{
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+}
+
+.helloDiv{
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+}
+
+body{
+  background-image:url("/Users/eyupstudent/Desktop/EyUp-work/voting-app/client/foodbg.jpg");
+  padding:50px;
+}
+
